@@ -1,0 +1,30 @@
+{
+  "name": "decorators-typecheck",
+  "version": "1.0.0",
+  "description": "ES7 or ESNext Decorator for TypeScript like typechecking on class methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkov/decorators-parameter-typecheck.git"
+  },
+  "keywords": [
+    "es7",
+    "es6",
+    "javascript",
+    "esnext",
+    "decorator",
+    "typecheck",
+    "class",
+    "parameter",
+    "check"
+  ],
+  "author": "Daniel Kovacs <kovacsemod@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielkov/decorators-parameter-typecheck/issues"
+  },
+  "homepage": "https://github.com/danielkov/decorators-parameter-typecheck#readme"
+}
